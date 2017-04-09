@@ -7,7 +7,10 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    > - **jdk** : jdk1-8u121 
    > - **javadoc** : Netbeans IDE 8.2
    > - **Class-Diagram** : Visual_Paradigm_14_0_20170403_Win64
- ### Testing :                                   
+ ### Testing :      
+   > - **Download or clone using url** : https://github.com/PPL-IIITA/ppl-assignment-UtkarshGupta1998.git
+   > - extract ppl-assignment-UtkarshGupta1998-master.zip  
+   > <pre><code>cd ppl-assignment-UtkarshGupta1998-master.zip</pre></code>
    > <pre><code>cd PPLQuest_1/ 
    > java -jar "PPLQuest_1.jar"</pre></code>
    > <pre><code>cd  PPLQuest_2/
