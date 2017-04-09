@@ -7,17 +7,17 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    > - **jdk** : jdk1-8u121 
  ### Testing :                                   
    > <pre><code>cd PPLQuest_1/ 
-   > java -jar "PPLQuest_1.jar</pre></code>
+   > java -jar "PPLQuest_1.jar"</pre></code>
    > <pre><code>cd  PPLQuest_2/
-   > java -jar " PPLQuest_2.jar</pre></code>
+   > java -jar " PPLQuest_2.jar"</pre></code>
    > <pre><code>cd  PPLQuest_3/
-   > java -jar " PPLQuest_3.jar</pre></code>
+   > java -jar " PPLQuest_3.jar"</pre></code>
    > <pre><code>cd PPLQuest_4/ 
-   > java -jar "PPLQuest_4.jar</pre></code>
+   > java -jar "PPLQuest_4.jar"</pre></code>
    > <pre><code>cd  PPLQuest_5/
-   > java -jar " PPLQuest_5.jar</pre></code>
+   > java -jar " PPLQuest_5.jar"</pre></code>
    > <pre><code>cd  PPLQuest_7/
-   > java -jar " PPLQuest_7.jar</pre></code>
+   > java -jar " PPLQuest_7.jar"</pre></code>
  ### Logs :
    > <pre><code>cd PPLQuest_1/</pre></code>
    > - <i>log.txt</i>  will be created after executing jar file
@@ -35,9 +35,10 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    jar file
 ### Documentation :
    > - Download all the html files access offline.
-   >  <pre><code>cd PPLQuest_1/dist/javadoc/index.html
+   >  <pre><code> cd PPLQuest_1/dist/javadoc/index.html
    >  cd PPLQuest_2/dist/javadoc/index.html
    >  cd PPLQuest_3/dist/javadoc/index.html
-      cd PPLQuest_4/dist/javadoc/index.html
+   >  cd PPLQuest_4/dist/javadoc/index.html
    >  cd PPLQuest_5/dist/javadoc/index.html
-   >  cd PPLQuest_7/dist/javadoc/index.html</pre></code>
+   >  cd PPLQuest_7/dist/javadoc/index.html
+   </pre></code>
