@@ -1,0 +1,5 @@
+Doraemon and neha have compatiblity  value 10862
+Sherlock and Ginny have compatiblity  value 7278
+Gohan and shreya have compatiblity  value 5022
+Harry and Tina have compatiblity  value 4939
+Malfoy and Hermoine have compatiblity  value 4540
