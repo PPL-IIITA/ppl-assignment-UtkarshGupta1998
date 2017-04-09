@@ -1,0 +1,5 @@
+Sherlock and neha have compatiblity  value 6208
+Harry and Ginny have compatiblity  value 4895
+Malfoy and Hermoine have compatiblity  value 4540
+Deadpool and shreya have compatiblity  value 1499
+Rohit and Tina have compatiblity  value 1323
