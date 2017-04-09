@@ -5,6 +5,8 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    > - **OS** : Windows 8.1 64 bit
    > - **IDE** :Netbeans IDE 8.2
    > - **jdk** : jdk1-8u121 
+   > - **javadoc** : Netbeans IDE 8.2
+   > - **Class-Diagram** : Visual_Paradigm_14_0_20170403_Win64
  ### Testing :                                   
    > <pre><code>cd PPLQuest_1/ 
    > java -jar "PPLQuest_1.jar"</pre></code>
