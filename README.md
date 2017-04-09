@@ -20,9 +20,9 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    > java -jar " PPLQuest_7.jar</pre></code>
  ### Logs :
    > <pre><code>cd PPLQuest_1/</pre></code>
-   > - <i>logs_couple.txt</i>  will be created after executing jar file
+   > - <i>log.txt</i>  will be created after executing jar file
    >  <pre><code> cd PPLQuest_2/</code></pre>     
-   > - <i>all_couple.txt , giftlog.txt , kmostcompatiblelog.txt , kmosthappiestlog.txt </i> will be created after executing </i>
+   > - <i>log.txt , giftlog.txt , kmostcompatiblelog.txt , kmosthappiestlog.txt </i> will be created after executing </i>
    >  <pre><code> cd PPLQuest_3/</code></pre>     
    > - <i>all_couple.txt , giftlog.txt , kmostcompatiblelog.txt , kmosthappiestlog.txt</i> will be created after executing </i>
    jar file
@@ -37,7 +37,7 @@ ppl-assignment-UtkarshGupta1998 created by GitHub Classroom
    > - Download all the html files access offline.
    >  <pre><code>cd PPLQuest_1/dist/javadoc/index.html
    >  cd PPLQuest_2/dist/javadoc/index.html
-   >  cd PPLQuest_3/dist/javadoc/index.html</pre></code>
-    <pre><code>cd PPLQuest_4/dist/javadoc/index.html
+   >  cd PPLQuest_3/dist/javadoc/index.html
+      cd PPLQuest_4/dist/javadoc/index.html
    >  cd PPLQuest_5/dist/javadoc/index.html
    >  cd PPLQuest_7/dist/javadoc/index.html</pre></code>
